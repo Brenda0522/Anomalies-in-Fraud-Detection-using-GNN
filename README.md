@@ -1,1 +1,1 @@
-# Anomalies-in-Fraud-Detection-using-GNN
+# We aim to use DGrapoh to analyze anomalieis in financial fraud detection.
